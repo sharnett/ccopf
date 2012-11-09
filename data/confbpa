@@ -1,0 +1,7 @@
+case BPA2.m
+wind windbpa
+costs costbpa
+refbus 2209
+line_nu 2
+gen_nu 3
+END

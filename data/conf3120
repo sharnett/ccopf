@@ -1,0 +1,7 @@
+case case3120sp.m
+wind wind3120
+costs cost3120
+refbus 3120
+line_nu 2
+gen_nu 3
+END

@@ -1,0 +1,7 @@
+case polish.m
+wind windpolish_biggensdan
+costs none
+refbus 2746
+line_nu 2
+gen_nu 3
+END

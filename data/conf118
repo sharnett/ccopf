@@ -1,0 +1,7 @@
+case case118tight2.m
+wind wind118
+costs cost118
+refbus 118
+line_nu 2 
+gen_nu 4
+END

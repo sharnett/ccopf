@@ -1,0 +1,6 @@
+case loop.m
+wind windloop
+costs loopcost
+refbus 6
+line_nu 2.576
+END

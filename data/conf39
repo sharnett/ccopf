@@ -1,0 +1,7 @@
+case case39tight.m
+wind wind39
+costs cost39
+refbus 39
+line_nu 2 
+gen_nu 2
+END

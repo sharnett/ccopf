@@ -1,0 +1,7 @@
+case case30tight.m
+wind wind30
+costs cost30
+refbus 30
+line_nu 2 
+gen_nu 3
+END

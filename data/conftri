@@ -1,0 +1,7 @@
+case tri.m
+wind windtri
+costs costtri
+refbus 3
+line_nu 2.547
+gen_nu 2.547
+END
